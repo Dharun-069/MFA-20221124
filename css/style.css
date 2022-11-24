@@ -1,0 +1,82 @@
+.main {
+    width: 320px;
+    height: 530px;
+    background-color: #15273f;
+    border-radius: 10px;
+}
+
+.total {
+
+    /* border: 2px solid white; */
+    margin-top: 50px;
+    padding: 10px;
+    height: 650px;
+    width: 300px;
+    padding: 20px;
+
+}
+
+#mainimg {
+    width: 280px;
+    height: 280px;
+    border-radius: 10px;
+}
+
+.container2 {
+    display: flex;
+    width: 280;
+    padding-bottom: 10px;
+
+}
+
+.container3 {
+    padding-top: 10px;
+    width: 250px;
+    display: flex;
+    border-top: 1px solid #637896;
+}
+
+#men {
+    width: 30px;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+h3,
+#name {
+    color: white;
+}
+
+.eth span {
+    color: #27c0c6;
+}
+
+.clock span,
+p,
+#create {
+    color: #637896;
+    font-family: Barlow;
+}
+
+h1 {
+    font-weight: 300, 400, 600;
+}
+
+#small {
+    position: relative;
+    margin-top: 10px;
+}
+
+.eth {
+    margin-right: 90px;
+}
+
+#foot {
+    margin-top: 10px;
+}
+
+body {
+    font-family: outfit;
+}
